@@ -1,6 +1,6 @@
-# Min
+# mix
 
-Min is a fast, minimal browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as:
+mix is a fast, minimal browser that protects your privacy. It derives from Min. It includes an interface designed to minimize distractions, and features such as:
 
 - Information from [DuckDuckGo](https://duckduckgo.com) in the search bar.
 - Full-text search for visited pages
@@ -10,7 +10,7 @@ Min is a fast, minimal browser that protects your privacy. It includes an interf
 - Password manager integration
 - Dark theme
 
-Download Min from the [releases page](https://github.com/minbrowser/min/releases), or learn more on the [website](https://minbrowser.org/).
+Download mix from the [releases page](https://github.com/minbrowser/min/releases), or learn more on the [website](https://minbrowser.org/).
 
 [![Downloads][DownloadsBadge]][DownloadsUrl]
 [![Discord][DiscordBadge]][DiscordUrl]
